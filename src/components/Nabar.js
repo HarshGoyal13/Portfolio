@@ -3,7 +3,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import github from "../assets/img/github-142-svgrepo-com.svg";
 import navIcon3 from '../assets/img/nav-icon3.svg';
-import cv from "../assets/harsh.cv.pdf"
+import cv from "../assets/cv.pdf"
 
 import {
   BrowserRouter as Router
